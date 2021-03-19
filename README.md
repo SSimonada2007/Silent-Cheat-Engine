@@ -1,7 +1,7 @@
 <h1 align="center">Silent Cheat Engine Runner</h1>
 <p align="center">Written in C# && Python</p>
 
-**This version of the Sulent Cheat Engine Runner only supports Windows**
+**This version of the Silent Cheat Engine Runner only supports Windows**
 <br>
 **Must have Cheat Engine Installed. (in: C:/Program Files/Cheat Engine 7.2/Cheat Engine.exe)!!!**
 <br>

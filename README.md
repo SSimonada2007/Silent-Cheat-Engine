@@ -16,8 +16,9 @@
 <br>
 
 # How to use
- 1. Run it.
- 2. Click on "Run Cheat Engine". (Run only once. If it wont run at the first time report it on gihub!)
+ 1. Download && Extract
+ 2. Open folder && run Silent Cheat Engine (Cheat Engine.exe keep there)
+ 3. Click on "Run Cheat Engine". (Run only once. If it wont run at the first time report it on gihub!)
 <br>
 
 # Author

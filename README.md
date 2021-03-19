@@ -24,7 +24,7 @@
 # Author
 - **SSimonada2007**
     - [Github](https://github.com/SSimonada2007)
-    - [Discord](https://discord.gg/bG7dpNSS)
+    - [Discord](https://discord.gg/bG7dpNSS) --> **EXPERIMENTAL**
     - [PayPal.me](https://paypal.me/simonpaypalpay)
 
 **Thanks to SSimonada2007 for this awesome tool.**

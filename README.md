@@ -28,4 +28,4 @@
 
 **Thanks to SSimonada2007 for this awesome tool.**
 
-© 2021, SSimonada2007. All rights reserved.
+Copyright (c) 2021 SSimonada2007

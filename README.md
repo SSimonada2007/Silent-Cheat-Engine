@@ -4,14 +4,15 @@
 This version of the Sulent Cheat Engine Runner only supports **Windows**.
 
 # Features
- - Runs Cheat Engine without installing, undetected
+ - Runs Cheat Engine undetected
 
 <br>
 
 # How to use
  0. **-WARNING-** run only in the folder where it is. (You can create a shortcut.)
- 1. Run it.
- 2. Click on "Run Cheat Engine". (Run only once. If it wont run at the first time report it on gihub!)
+ 0. **-WARNING-** you must have Cheat engine installed! ()
+ 3. Run it.
+ 4. Click on "Run Cheat Engine". (Run only once. If it wont run at the first time report it on gihub!)
 
 <br>
 

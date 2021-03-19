@@ -1,10 +1,13 @@
 <h1 align="center">Silent Cheat Engine Runner</h1>
 <p align="center">Written in C# && Python</p>
 
-**This version of the Sulent Cheat Engine Runner only supports Windows** \n
-**Must have Cheat Engine Installed. (in: C:/Program Files/Cheat Engine 7.2/Cheat Engine.exe)!!!** \n
-**It Beeps when error** \n
-**Run only in the Silent Cheat Engine Folder (it won't run)** \n
+**This version of the Sulent Cheat Engine Runner only supports Windows**
+<br>
+**Must have Cheat Engine Installed. (in: C:/Program Files/Cheat Engine 7.2/Cheat Engine.exe)!!!**
+<br>
+**It Beeps when error**
+<br>
+**Run only in the Silent Cheat Engine Folder (it won't run)**
 
 # Features
  - Runs Cheat Engine undetected
